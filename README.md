@@ -15,8 +15,8 @@ This project uses the famous Iris dataset to demonstrate supervised classificati
 **Installation and Setup**
 Clone the repository (or download the notebook file):
 
-git clone https://github.com/<username>/iris-svm-classification.git
-cd iris-svm-classification
+git clone [https://github.com/<username>/iris-svm-classification.git]
+cd Iris-Flower-Classification-using-SVM
 
 **Install dependencies:** Ensure you have Python 3 installed. Then install the required Python libraries:
 
